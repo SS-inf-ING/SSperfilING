@@ -1,7 +1,7 @@
 <div id="header"<div id="header" align="center">
-	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM4NTVlOTE3YWE1ZTIyMjc0ZDU1NzM5YmJmNWUzOGI4ZTU2MWFhZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4H5bl9dHUQrAiG 0cBX/giphy.gif" width= "200">
+	<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg1YmE0ZDFhYmRkMDlmNGI1ZGUzOGM0Yzg0M2EyYTE4M2Q5Yjk1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/zgduo4kWRRDVK/giphy.gif" width= "200">
 	<h1 align= "center">Hi, I'm student and YouDevs</h1>
-	<h3 align= "center">Me encanta la computacion,matematica y la carrera desarrollador en programacion por lo cual eh decidido mostrar a la gente mis proyectos o futuros avances.
+	<h3 align= "center">Me encanta la computacion,matematica y la carrera de programacion por lo cual e decidido mostrar a la gente mis proyectos o futuros avances.
 	</h3>
 </div>
 <div id= "bages" align="center">
